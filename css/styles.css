@@ -1,0 +1,130 @@
+
+body{
+      color:#40514E;
+      margin:0;
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+}
+
+
+h1{
+  color:#216353;
+  margin-top: 0;
+  font-family: 'Neucha', cursive;
+  font-size: 4.5rem;
+  margin:50px auto 0 auto;
+}
+
+h2{
+  color: #0c7b93;
+  font-family: 'Vidaloka', serif;
+  font-size:2.5rem;
+  margin: 25px auto 25px auto;
+}
+
+h3{
+  color: #3b6978;
+  font-family: 'Vidaloka', serif;
+}
+
+h5{
+  color:black;
+  margin:0;
+}
+
+hr {
+  border-top: 7px dotted #D9CCD1;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  width:5%;
+  margin: 50px auto 50px auto;
+
+}
+
+p {
+    line-height: 1.75;
+}
+
+/********************************** Class tags ******************************/
+
+.top-container {
+  background-color: #CFF1EF;
+  position:relative;
+  padding-top:148px;
+}
+
+.middle-container {
+  background-color: #d1f5d3;
+  padding: 50px 0 50px 0;
+}
+.bottom-container {
+  background-color: #5b8c5a;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position:absolute;
+  right:250px;
+  top:100px;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left:200px;
+  bottom:250px;
+}
+
+.skill-row {
+  width: 60%;
+  margin:50px auto 50px auto;
+  text-align:left;
+  line-height: 1.75;
+}
+
+.lightbulb {
+  float: left;
+  position:relative;
+  right:30px;
+  margin-top: 4px;
+}
+
+.gaming {
+  float:right;
+  position: relative;
+  left:30px;
+  top: 18px;
+}
+
+.logic {
+  float: left;
+  position:relative;
+  right:30px;
+  margin-top: 3px;
+}
+
+.communication {
+  float: right;
+  position:relative;
+  left:30px;
+  margin-top: 3px;
+}
+
+.profile{
+  width: 58%;
+  margin: auto;
+}
+
+.contact-me {
+  width: 58%;
+  margin: auto;
+}
+
+/******************************ID'S*********************************/
+#name {
+  color: #EAF6F6;
+  margin: 5px 0 5px 0;
+}
