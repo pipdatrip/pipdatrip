@@ -110,15 +110,15 @@ a:hover {
 }
 
 .instagram:hover {
-filter: invert(1);
+  filter: invert(1);
 }
 
 .linkedin:hover {
-filter: invert(1);
+  filter: invert(1);
 }
 
 .twitter:hover {
-filter: invert(1);
+  filter: invert(1);
 }
 
 .logic {
@@ -167,13 +167,8 @@ filter: invert(1);
 }
 
 .button:hover {
-  background:#355762;
+  background: #355762;
   border-width: 0px 0px 4px 0px;
   border-radius: 09px;
   padding: 10px 20px 10px 20px;
-}
-
-/******************************ID'S*********************************/
-#name {
-
 }
