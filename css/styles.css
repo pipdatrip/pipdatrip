@@ -109,6 +109,18 @@ a:hover {
   margin: 0 15px 0 15px;
 }
 
+.instagram:hover {
+filter: invert(1);
+}
+
+.linkedin:hover {
+filter: invert(1);
+}
+
+.twitter:hover {
+filter: invert(1);
+}
+
 .logic {
   float: left;
   position: relative;
